@@ -1,0 +1,26 @@
+>>> Info
+Essa é a uma tradução do jogo Two Hours One Life, modificação do original One Hour One Life.
+É compatível com a versão 20273 e foi lançada em 08/10/2020.
+
+Essa não é uma tradução completa. Novas versões podem vir a ser lançadas.
+Discord para contato: Defalt#2776.
+
+>>> Conteúdos
+Esse pacote contém fontes com suporte a latin-1 diferentes das originais.
+A maioria dos items foram traduzidos e localizados para o Português Brasileiro.
+O menu e tutorial estão completamente traduzidos.
+
+>>> Instalação
+Extraia os conteúdos do arquivo de tradução para a pasta do jogo de forma que esse arquivo (leia-me.txt) fique no mesmo diretório que 'OneLife.exe'.
+Os conteúdos devem ser extraidos de forma que eles substituam os arquivos originais da jogo.
+Caso a traduçao não se aplique apague o arquivo 'cache.fcz' na pasta 'objects'.
+
+Nenhum passo adicional é necessário e você pode iniciar o jogo normalmente.
+
+>>> Notas
+Em caso de atualização do jogo, reinstale a tradução. Note que poderá haver inconsitências em uma versão não suportada.
+
+Tenha em mente que a tradução pode vir a ficar obsoleta, e uma atualização da tradução será requerida.
+
+>>> Licensa
+CC BY-SA-NC vide license.
